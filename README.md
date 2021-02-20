@@ -2,8 +2,9 @@
 
 ### 코드컨벤션
 
+---
+
 ### 개발환경
 
 #### 화살표 이미지 데이터셋 크롤링
-`아나콘다 사용   
-python 3.6, tqdm library 4.56.0, selenium 3.141.0`
+`아나콘다 사용--python 3.6, tqdm library 4.56.0, selenium 3.141.0`
