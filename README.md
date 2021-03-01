@@ -16,6 +16,11 @@ https://github.com/ssapsu/arrowImageCrawling
 
 ---
 
+##### 사용 프로그램
+Fritzing https://drive.google.com/uc?id=15LPVIRv8YhhKqkfJ6TLEI6f84MqwSygq&export=download <br/>
+
+---
+
 ##### 참고 문헌
 딥러닝에 대한 설명이 잘 되어 있는 웹사이트 https://ds-academy.net/chapter-1-introduction-to-dl/ <br/>
 이미지 크롤링 참고 https://seopseop911.tistory.com/41 <br/>
