@@ -22,6 +22,7 @@ Fritzing https://drive.google.com/uc?id=15LPVIRv8YhhKqkfJ6TLEI6f84MqwSygq&export
 ---
 
 ##### 참고 문헌
+마크다운 문법 정리 https://heropy.blog/2017/09/30/markdown/ <br/>
 딥러닝에 대한 설명이 잘 되어 있는 웹사이트 https://ds-academy.net/chapter-1-introduction-to-dl/ <br/>
 이미지 크롤링 참고 https://seopseop911.tistory.com/41 <br/>
 데이터 어그멘테이션에 대한 설명 https://www.kakaobrain.com/blog/64 <br/>
