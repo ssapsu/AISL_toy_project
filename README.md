@@ -21,6 +21,16 @@ Fritzing https://drive.google.com/uc?id=15LPVIRv8YhhKqkfJ6TLEI6f84MqwSygq&export
 
 ---
 
+##### 라즈베리파이 기본 지식
+PWM이란? https://m.blog.naver.com/emperonics/221725399383 <br/>
+RPi.GPIO란? https://studymake.tistory.com/498 <br/>
+초음파 센서 사용시 딜레이를 주는 이유 https://www.basic4mcu.com/bbs/board.php?bo_table=p2&wr_id=47 <br/>
+풀업 저항, 풀다운 저항, 플로팅 https://k96-ozon.tistory.com/59 <br/>
+hardware pwm와 software pwm 차이 https://sites.google.com/site/designersfinger/studio-hhjjj/pwm/hardware_pwm <br/>
+GPIO 사용법 http://lhdangerous.godohosting.com/wiki/index.php/Raspberry_pi_에서_python으로_GPIO_사용하기 <br/>
+
+---
+
 ##### 참고 문헌
 마크다운 문법 정리 https://heropy.blog/2017/09/30/markdown/ <br/>
 딥러닝에 대한 설명이 잘 되어 있는 웹사이트 https://ds-academy.net/chapter-1-introduction-to-dl/ <br/>
