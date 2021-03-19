@@ -28,6 +28,7 @@ RPi.GPIO란? https://studymake.tistory.com/498 <br/>
 풀업 저항, 풀다운 저항, 플로팅 https://k96-ozon.tistory.com/59 <br/>
 hardware pwm와 software pwm 차이 https://sites.google.com/site/designersfinger/studio-hhjjj/pwm/hardware_pwm <br/>
 GPIO 사용법 http://lhdangerous.godohosting.com/wiki/index.php/Raspberry_pi_에서_python으로_GPIO_사용하기 <br/>
+GPIO 레지스터에 대한 설명 https://m.blog.naver.com/PostView.nhn?blogId=gwangryr&logNo=220556862760&proxyReferer=https:%2F%2Fwww.google.com%2F <br/>
 
 ---
 
