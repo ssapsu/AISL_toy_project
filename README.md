@@ -6,6 +6,12 @@
 
 ### 개발환경
 
+구글 코랩에 yolov4 설치 </br>
+
+
+참고한 사이트 https://wiserloner.tistory.com/1181 </br>
+
+
 #### 화살표 이미지 데이터셋 크롤링
 `아나콘다 사용--python 3.6, tqdm library 4.56.0, selenium 3.141.0`
 
