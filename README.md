@@ -8,7 +8,7 @@
 
 구글 코랩에 yolov4 설치 </br>
 
-
+코랩 주소 https://colab.research.google.com/drive/1w9bko27caxyvX0I8nDSQqI7-hoia2ZBh#scrollTo=8UMKe_a2UsPW </br>
 참고한 사이트 https://wiserloner.tistory.com/1181 </br>
 
 
