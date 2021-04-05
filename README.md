@@ -27,6 +27,15 @@ Fritzing https://drive.google.com/uc?id=15LPVIRv8YhhKqkfJ6TLEI6f84MqwSygq&export
 
 ---
 
+##### YOLO 원리
+YOLO 원리 http://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=220993971883&parentCategoryNo=6&categoryNo=&viewDate=&isShowPopularPosts=true&from=search <br/>
+NMS 알고리즘(non-maximum-suppresion) 설명 https://dyndy.tistory.com/275 <br/>
+mAp (mean AP) 설명; ML(machine learning) 분야의 Object Detection 모델의 성능평가지표로 쓰임 https://artiiicy.tistory.com/25 <br/>
+
+YOLO 원리에 관한 설명을 pdf참고 <br/>
+
+---
+
 ##### 라즈베리파이 기본 지식
 PWM이란? https://m.blog.naver.com/emperonics/221725399383 <br/>
 RPi.GPIO란? https://studymake.tistory.com/498 <br/>
