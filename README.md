@@ -32,7 +32,7 @@ YOLO 원리 http://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=2209939718
 NMS 알고리즘(non-maximum-suppresion) 설명 https://dyndy.tistory.com/275 <br/>
 mAp (mean AP) 설명; ML(machine learning) 분야의 Object Detection 모델의 성능평가지표로 쓰임 https://artiiicy.tistory.com/25 <br/>
 
-YOLO 원리에 관한 설명을 pdf참고 <br/>
+YOLO 원리에 관한 설명에 관한 pdf가 있으니 참고바람 <br/>
 
 ---
 
