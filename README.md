@@ -47,12 +47,21 @@ GPIO 레지스터에 대한 설명 https://m.blog.naver.com/PostView.nhn?blogId=
 
 ---
 
+##### 리눅스 명령어
+리눅스를 사용하여 텍스트파일 파일 내용 일괄 변경 https://heum-story.tistory.com/62 <br/>
+리눅스를 이용하여 서버에서 파일, 디렉토리(폴더) 가져오기 https://harryp.tistory.com/168 <br/>
+리눅스를 이용하여 서버에서 파일, 디렉토리(폴더) 가져오기 https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%97%90%EC%84%9C_%ED%8F%B4%EB%8D%94_%ED%86%B5%EC%A7%B8%EB%A1%9C_%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0 <br/>
+리눅스를 이용하여 파일 내용 일괄 변경 https://heum-story.tistory.com/62 <br/>
+
+---
+
 ##### 참고 문헌
 마크다운 문법 정리 https://heropy.blog/2017/09/30/markdown/ <br/>
 딥러닝에 대한 설명이 잘 되어 있는 웹사이트 https://ds-academy.net/chapter-1-introduction-to-dl/ <br/>
 이미지 크롤링 참고 https://seopseop911.tistory.com/41 <br/>
 데이터 어그멘테이션에 대한 설명 https://www.kakaobrain.com/blog/64 <br/>
 YOLO에 대한 설명 https://pgmrlsh.tistory.com/6 <br/>
+yolo jpg만 사용 가능 https://juni-94.tistory.com/m/10 <br/>
 
 화살표 이미지 구글 드라이브 링크
 https://drive.google.com/drive/folders/1UtckeZgpdl80X9dRA-MnHXorfusuAGhq?usp=sharing, https://drive.google.com/drive/folders/1wgBaBZHvmKd0ZSXdXGiI0sJAUT0ryzaR?usp=sharing <br/>
